@@ -121,7 +121,7 @@
   ],
   
   "external": [
-    "aluraquiz-git-main.thmoreiracosta.vercel.app/",
+    "https://aluraquiz.thmoreiracosta.vercel.app/",
     "https://projeto-alura-quiz.andersonfroes.vercel.app/"
   ],
   "theme": {
