@@ -1,0 +1,138 @@
+{
+  "bg": "https://i.ytimg.com/vi/cudvebGrVMA/maxresdefault.jpg",
+  "bg2": "https://queenofpeacemedia.com/wp-content/uploads/2018/09/Tomb-of-Padre-Pio-e1537634567890.jpg",
+  "title": "Padre Pio - O Santo da Pietrelcina",
+  "description": "Venha conhecer mais sobre a vida desse grande místico da Igreja Católica",
+  "questions": [
+    {
+      "image": "https://thumbs.gfycat.com/WeightySpanishGoat-small.gif",
+      "title": "01 - Onde Padre Pio recebeu os estigmas?",
+      "description": "Vida em santidade",
+      "answer": 2,
+      "alternatives": [
+        "Em Pietrelcina",
+        "Monte Galgano",
+        "Diante de um crucifixo em San Giovanni Rotondo",
+        "Foggia"
+      ]
+    },
+    {
+      "image": "https://i.makeagif.com/media/5-08-2016/aTY1AL.gif",
+      "title": "02 - Qual foi a ordem de monges que padre Pio se juntou?",
+      "description": "Discipulado e missão",
+      "answer": 1,
+      "alternatives": [
+        "Carmelitas",
+        "Capuchinos",
+        "Beneditina",
+        "Dominicana"
+
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/9ee4b4e574c7fc87ac0971179fe6f4d7/tumblr_odyiyoKbPn1rm9sqwo2_400.gifv",
+      "title": "03 - Qual  o dia de sua ordenação sacerdotal?",
+      "answer": 3,
+      "alternatives": [
+        "23 de setembro 1910",
+        "27 de janeiro de 1907",
+        "18 de janeiro de 1905",
+        "10 de agosto de 1910"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/fbc2db69fd7cd986a27ea821e58da28a/tenor.gif",
+      "title": "04 - Quanto anos tinha ao entrar no mosteiro?",
+      "answer": 0,
+      "alternatives": [
+        "15 anos",
+        "16 anos",
+        "17 anos",
+        "18 anos"
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/1c227a464a1dcd0407713b1e5d6bf862/tumblr_odyiyoKbPn1rm9sqwo8_400.gifv",
+      "title": "05 - Qual o nome de batismo de São padre Pio?",
+      "answer": 1,
+      "alternatives": [
+        "Giovanni Forgione",
+        "Francesco Forgione",
+        "Joannes Paulus",
+        "Joseph Paulus"
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/e8239d707799a5835771a8a2a084aab5/tumblr_odyiyoKbPn1rm9sqwo9_400.gifv",
+      "title": "06 - Onde padre Pio passou a maior parte de sua vida?",
+      "answer": 3,
+      "alternatives": [
+        "San Sebastian de Garabandal",
+        "Pietrelcina",
+        "Foggia",
+        "San Giovanne Rotondo"
+      ]
+    },
+    {
+      "image": "https://64.media.tumblr.com/18c7e8b7ec787ecd42a845121f6fd6f3/tumblr_odyiyoKbPn1rm9sqwo3_400.gifv",
+      "title": "07 - Padre Pio, em vida realizou um grande evento e construiu um empreendimento que até os dias de hoje, atende inumeras pessoas. Que empreendimento foi esse?",
+      "answer": 2,
+      "alternatives": [
+        "Escola",
+        "Seminário",
+        "Hospital",
+        "Asilo"
+      ]
+    },
+    {
+      "image": "https://www.arsenalcatolico.com.br/wp-content/uploads/2020/09/Imagens-Padre-pio.gif",
+      "title": "08 - Com base na resposta anterior, qual o nome desse empreendimento?",
+      "answer": 0,
+      "alternatives": [
+        "Casa Sollievo dalla Sofferenza",
+        "Scuola di Gesù Bambino",
+        "Asylum cure d'ars",
+        "Seminario di Sao Francisco"
+      ]
+    },
+    {
+      "image": "data:image/jpeg;base64,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",
+      "title": "09 - Quanto tempo duraram os estigmas em padre Pio?",
+      "answer": 1,
+      "alternatives": [
+        "45 anos",
+        "50 anos",
+        "55 anos",
+        "60 anos"
+      ]
+    },
+    {
+      "image": "https://oriundi.net/upload/publicacao/620x375/24937-padre-pio-e-a-conversao-dos-comunistas.jpg?k=1601834325",
+      "title": "10 - Padre Pio é um grande santo místico da Igreja Católica. Seu corpo até os dias de hoje encontra-se incorrupto e em exposição em San Giovanne Rotondo. Qual dia, mês e ano de sua morte?",
+      "answer": 2,
+      "alternatives": [
+        "13 de maio de 1917",
+        "23 de abril de 1922",
+        "23 de setembro de 1968",
+        "13 de maio de 1980"
+      ]
+    }
+    
+  ],
+  
+  "external": [
+    "https://aluraquiz.thmoreiracosta.vercel.app",
+    "https://aluraquiz-base.alura-challenges.vercel.app/contribuidores"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#222222",
+      "secondary": "#e89c3f",
+      "mainBg": "#705D56",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
