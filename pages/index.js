@@ -98,7 +98,7 @@ export default function Home() {
                 const [projectName, githubUser] = linkExterno
                   .replace(/\//g, '')
                   .replace('https:', '')
-                  .replace('.vercel.app', '')
+                  .replace('.vercel.app/', '')
                   .split('.');
 
                 return (
