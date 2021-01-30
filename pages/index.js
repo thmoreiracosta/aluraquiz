@@ -25,7 +25,7 @@ const QuizContainer = styled.div`
   width: 100%;
   max-width: 350px;
   padding-top: 45px;
-  margin: auto 60%;
+  margin: auto 10%;
   @media screen and (max-width: 500px) {
     margin: auto;
     padding: 15px;
@@ -91,7 +91,7 @@ export default function Home() {
           animate="show"
         >
           <Widget.Content>
-            <h1>Galeria de Quizes - Alura</h1>
+            <h1>Quizes da Galera</h1>
 
             <ul>
               {db.external.map((linkExterno) => {
