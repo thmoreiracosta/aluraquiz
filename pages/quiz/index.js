@@ -9,8 +9,8 @@ export default function QuizDaGaleraPage() {
     <ThemeProvider theme={db.theme}>
       <QuizScreen
         externalQuestions={db.questions}
-        //externalBg={db.bg}
-        externalBg2={db.bg2}
+        externalBg={db.bg}
+        //externalBg2={db.bg2}
       />
     </ThemeProvider>
   );
