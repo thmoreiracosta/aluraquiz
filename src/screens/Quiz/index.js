@@ -174,7 +174,7 @@ export default function QuizPage({ externalQuestions, externalBg, externalBg2 })
   const question = externalQuestions[questionIndex];
   const totalQuestions = externalQuestions.length;
   const bg = externalBg;
-  const bg2 = externalBg2;
+  //const bg2 = externalBg2;
 
   function addResult(result) {
     // results.push(result);
@@ -207,7 +207,7 @@ export default function QuizPage({ externalQuestions, externalBg, externalBg2 })
 
   return (
     <QuizBackground backgroundImage={bg}>
-      <QuizBackground backgroundImage={bg2}>
+      
       <QuizContainer>
         <QuizLogo />
         {screenState === screenStates.QUIZ && (
@@ -225,6 +225,6 @@ export default function QuizPage({ externalQuestions, externalBg, externalBg2 })
         {screenState === screenStates.RESULT && <ResultWidget results={results} />}
       </QuizContainer>
       </QuizBackground>
-    </QuizBackground>
+    
   );
 }
